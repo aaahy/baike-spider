@@ -1,5 +1,5 @@
 #来源
-慕课网 Python开发简单爬虫课程
+慕课网-Python开发简单爬虫课程http://www.imooc.com/learn/563
 
 #目标
 爬取百度百科Python词条相关的1000个页面数据
