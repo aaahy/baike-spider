@@ -12,4 +12,5 @@ beautifulsoup4:4.4.1
 lxml:3.6.0
 
 #架构
- ![image](https://github.com/aaahy/dotvim/raw/master/screenshots/vim-screenshot.jpg)
+ ![image](https://github.com/aaahy/baike-spider/images/summary1.png)
+ ![image](https://github.com/aaahy/baike-spider/images/summary2.png)
